@@ -1,13 +1,14 @@
-# coc524a08b125eb6e254997fb
+# Clone do Twitter
+Esse projeto é um clone simples do twitter, criado em JavaScript puro, que permite que o usuário curta, retweete e responda tweets.
 
-## About Scrimba
+## Funcionalidades
+1. O usuário pode curtir um tweet clicando no ícone de coração ao lado do tweet.
+2. O usuário pode retweetar um tweet clicando no ícone de retweet ao lado do tweet.
+3. O usuário pode responder a um tweet clicando no ícone de comentário ao lado do tweet.
+4. O usuário pode criar um novo tweet na caixa de texto na parte superior da página.
+5. Os tweets são exibidos em ordem cronológica, com o tweet mais recente no topo.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Tecnologias
+- JavaScript puro
+- uuid (para gerar UUIDs para cada tweet)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
